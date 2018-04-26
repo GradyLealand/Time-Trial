@@ -1,0 +1,10 @@
+D:\Semester4\class's\AdvancedOOP\Git\Williams-Grady-w0301279\TimeTrial\TimeTrial\bin\Debug\TimeTrial.exe.config
+D:\Semester4\class's\AdvancedOOP\Git\Williams-Grady-w0301279\TimeTrial\TimeTrial\bin\Debug\TimeTrial.exe
+D:\Semester4\class's\AdvancedOOP\Git\Williams-Grady-w0301279\TimeTrial\TimeTrial\bin\Debug\TimeTrial.pdb
+D:\Semester4\class's\AdvancedOOP\Git\Williams-Grady-w0301279\TimeTrial\TimeTrial\obj\Debug\TimeTrial.csprojResolveAssemblyReference.cache
+D:\Semester4\class's\AdvancedOOP\Git\Williams-Grady-w0301279\TimeTrial\TimeTrial\obj\Debug\TimeTrial.GameForm.resources
+D:\Semester4\class's\AdvancedOOP\Git\Williams-Grady-w0301279\TimeTrial\TimeTrial\obj\Debug\TimeTrial.Properties.Resources.resources
+D:\Semester4\class's\AdvancedOOP\Git\Williams-Grady-w0301279\TimeTrial\TimeTrial\obj\Debug\TimeTrial.csproj.GenerateResource.Cache
+D:\Semester4\class's\AdvancedOOP\Git\Williams-Grady-w0301279\TimeTrial\TimeTrial\obj\Debug\TimeTrial.csproj.CoreCompileInputs.cache
+D:\Semester4\class's\AdvancedOOP\Git\Williams-Grady-w0301279\TimeTrial\TimeTrial\obj\Debug\TimeTrial.exe
+D:\Semester4\class's\AdvancedOOP\Git\Williams-Grady-w0301279\TimeTrial\TimeTrial\obj\Debug\TimeTrial.pdb
